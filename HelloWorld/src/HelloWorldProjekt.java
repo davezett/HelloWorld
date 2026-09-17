@@ -18,6 +18,6 @@ public class HelloWorldProjekt {
         summe = zahl1 + zahl2;
         System.out.println("Ergebnis:");
         System.out.println(summe);
-
+        //kurzer Test richtiger Github Account
     }
 }
